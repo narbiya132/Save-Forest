@@ -31,7 +31,7 @@ Forests play a vital role in maintaining ecological balance, supporting wildlife
 ## 📁 Project Structure
 
 ```text
-Save-Forests/
+Save-Forest/
 │
 ├── index.html
 ├── style.css
@@ -44,13 +44,13 @@ Save-Forests/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Save-Forests.git
+git clone https://github.com/narbiya132/Save-Forest.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd Save-Forests
+cd Save-Forest
 ```
 
 ### 3. Run the website
